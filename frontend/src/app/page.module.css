@@ -102,6 +102,9 @@ a.secondary {
   display: flex;
   align-items: center;
   gap: 8px;
+  cursor: pointer;
+  color: #7ffdff;
+  filter: brightness(0) saturate(100%) invert(87%) sepia(81%) saturate(4440%) hue-rotate(155deg) brightness(105%) contrast(103%);
 }
 
 .footer img {
